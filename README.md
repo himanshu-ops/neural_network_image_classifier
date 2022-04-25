@@ -18,3 +18,7 @@ IPython.display
 ```
 
 Read the following blog for a step by step tutorial: https://medium.com/@himancodes/building-an-image-classifier-from-scratch-using-convolutional-neural-networks-c9ebcde3a53e
+
+About me: https://himanshu-ops.github.io/index.html
+
+Kindly reach out to me on this email: hbcan9@gmail.com for any concerns and clarifications.
